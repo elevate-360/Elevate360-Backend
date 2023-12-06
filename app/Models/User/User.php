@@ -18,8 +18,8 @@ class User extends Model
     public static function insertData($data)
     {
         $details = array(
-            "userFirstName" => $data["firstName"],
-            "userLastName" => $data["lastName"],
+            "userFirstName" => $data["firstname"],
+            "userLastName" => $data["lastname"],
             "userEmail" => $data["email"],
             "userContactNumber" => $data["contactNumber"],
             "userLogin" => $data["login"],

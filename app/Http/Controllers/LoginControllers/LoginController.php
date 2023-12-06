@@ -17,8 +17,8 @@ class LoginController extends BaseController
     public function login(Login $request)
     {
         $agent = new Agent();
-        $credentials = $request->only('username', 'password');
-        $userData = User::select('userId', 'userFirstName', 'userLastName', 'userEmail', 'userSecret')->where('userLogin', '=', $credentials['username'])->where('userPassword', '=', hash('sha512', $credentials['password']))->get();
+        $credentials = $request->only('login', 'password');
+        $userData = User::select('userId', 'userFirstName', 'userLastName', 'userEmail', 'userSecret')->where('userLogin', '=', $credentials['login'])->where('userPassword', '=', hash('sha512', $credentials['password']))->get();
         // dd($userData);
         $loginDetails = [
             'userId' => $userData[0]->userId,
@@ -33,8 +33,9 @@ class LoginController extends BaseController
         ];
         Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
         UserLoginLog::insert($loginDetails);
-        echo '<pre>';
-        print_r($loginDetails);
+        return $userData[0]->userSecret;
+        // echo '<pre>';
+        // print_r($loginDetails);
     }
 
     public function register(Register $request)
@@ -43,7 +44,7 @@ class LoginController extends BaseController
         $return = User::insertdata($data);
         $customData = [
             'date' => now()->format('j F, Y'),
-            'name' => $data["firstName"].' '.$data["lastName"],
+            'name' => $data["firstname"].' '.$data["lastname"],
         ];
         Mail::to($data["email"])->send(new RegisterSuccess($customData));
         echo '<pre>';

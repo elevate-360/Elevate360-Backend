@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\LoginControllers\LoginController;
+use App\Http\Controllers\Menu\MenuController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -23,6 +24,7 @@ use Illuminate\Support\Facades\Route;
 // Public Routes
 Route::post("/login", [LoginController::class, "login"]);
 Route::post("/register", [LoginController::class, "register"]);
+Route::post("/menu/dashboard", [MenuController::class, "getMenu"]);
 
 // Route::middleware(["auth.api"])->group(function () {
 //     // Define your protected API routes here

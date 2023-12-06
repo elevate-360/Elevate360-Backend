@@ -20,9 +20,9 @@ class Register extends FormRequest
             "contactNumber" => ["required", "regex:/^[0-9]{10}$/"],
             "login" => "required|string",
             "password" => "required|string",
-            "role" => "required|string",
-            "capabilities" => "required|string",
-            "settings" => "required|string",
+            "role" => "string",
+            "capabilities" => "string",
+            "settings" => "string",
         ];
     }
 }

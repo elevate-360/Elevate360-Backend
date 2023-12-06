@@ -25,9 +25,9 @@ class User extends Model
             "userLogin" => $data["login"],
             "userPassword" => hash('sha512', $data["password"]),
             "userSecret" => hash('sha512', ($data["email"] . $data["login"] . $data["password"])),
-            "userRole" => $data["role"],
-            "userCapabilities" => preg_replace('/\s+/', ' ', $data["capabilities"]),
-            "userSettings" => preg_replace('/\s+/', ' ', $data["settings"]),
+            "userRole" => isset($data["role"]) ? $data["role"] : null,
+            "userCapabilities" => isset($data["capabilities"]) ? (preg_replace('/\s+/', ' ', $data["capabilities"])) : (null),
+            "userSettings" => isset($data["settings"]) ? preg_replace('/\s+/', ' ', $data["settings"]) : null,
         );
         $insertedId = self::insert($details);
         return $insertedId;

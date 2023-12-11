@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Menu;
+namespace App\Http\Controllers\MenuControllers;
 
 use Illuminate\Routing\Controller as BaseController;
 
-class LoginController extends BaseController
+class MenuController extends BaseController
 {
     public function getMenu()
     {

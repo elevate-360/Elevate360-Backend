@@ -18,8 +18,8 @@ class LoginController extends BaseController
     public function login(Login $request)
     {
         $agent = new Agent();
-        $credentials = $request->only('login', 'password');
-        $userData = User::select('userId', 'userFirstName', 'userLastName', 'userEmail', 'userSecret')->where('userLogin', '=', $credentials['login'])->where('userPassword', '=', hash('sha512', $credentials['password']))->get();
+        $credentials = $request->only('username', 'password');
+        $userData = User::select('userId', 'userFirstName', 'userLastName', 'userEmail', 'userSecret')->where('userLogin', '=', $credentials['username'])->where('userPassword', '=', hash('sha512', $credentials['password']))->get();
         // dd($userData);
         $loginDetails = [
             'userId' => $userData[0]->userId,

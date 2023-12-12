@@ -52,6 +52,7 @@ class LoginController extends BaseController
             Mail::to($data["email"])->send(new RegisterSuccess($customData));
         } catch (Exception $e) {
         }
+        dd($return);
         return json_encode($return);
     }
 }

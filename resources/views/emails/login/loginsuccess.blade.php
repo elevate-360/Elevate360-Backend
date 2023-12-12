@@ -1,7 +1,5 @@
-<!DOCTYPE html
-    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="https://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
-    xmlns:o="urn:schemas-microsoft-com:office:office">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 
 <head>
     <meta charset="UTF-8" />
@@ -15,9 +13,7 @@
     <meta name="format-detection" content="address=no" />
     <meta name="format-detection" content="email=no" />
     <meta name="x-apple-disable-message-reformatting" />
-    <link
-        href="https://fonts.googleapis.com/css?family=Fira+Sans:ital,wght@0,100;1,100;0,200;1,200;0,300;1,300;0,400;1,400;0,500;1,500;0,600;1,600;0,700;1,700;0,800;1,800;0,900;1,900"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:ital,wght@0,100;1,100;0,200;1,200;0,300;1,300;0,400;1,400;0,500;1,500;0,600;1,600;0,700;1,700;0,800;1,800;0,900;1,900" rel="stylesheet" />
     <title>Untitled</title>
     <!-- Made with Postcards by Designmodo https://designmodo.com/postcards -->
     <!--[if !mso]><!-->
@@ -552,69 +548,36 @@
             <![endif]-->
 </head>
 
-<body class="pc-font-alt"
-    style="width: 100% !important;min-height: 100% !important;margin: 0 !important;padding: 0 !important;line-height: 1.5;color: #2D3A41;mso-line-height-rule: exactly;-webkit-font-smoothing: antialiased;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;font-variant-ligatures: none;text-rendering: optimizeLegibility;-moz-osx-font-smoothing: grayscale;background-color: #f4f4f4;"
-    bgcolor="#f4f4f4">
-    <table class="pc-project-body" style="table-layout: fixed;min-width: 600px;background-color:#f4f4f4;"
-        bgcolor="#f4f4f4" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+<body class="pc-font-alt" style="width: 100% !important;min-height: 100% !important;margin: 0 !important;padding: 0 !important;line-height: 1.5;color: #2D3A41;mso-line-height-rule: exactly;-webkit-font-smoothing: antialiased;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;font-variant-ligatures: none;text-rendering: optimizeLegibility;-moz-osx-font-smoothing: grayscale;background-color: #f4f4f4;" bgcolor="#f4f4f4">
+    <table class="pc-project-body" style="table-layout: fixed;min-width: 600px;background-color:#f4f4f4;" bgcolor="#f4f4f4" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
         <tr>
             <td align="center" valign="top">
-                <table class="pc-project-container" style="width: 600px; max-width: 600px;" width="600"
-                    align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
+                <table class="pc-project-container" style="width: 600px; max-width: 600px;" width="600" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
                     <tr>
                         <td style="padding: 20px 0px 20px 0px;" align="left" valign="top">
-                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%"
-                                style="width: 100%;">
+                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="width: 100%;">
                                 <tr>
                                     <td valign="top">
                                         <!-- BEGIN MODULE: Menu 3 -->
-                                        <table width="100%" border="0" cellspacing="0" cellpadding="0"
-                                            role="presentation">
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                             <tr>
                                                 <td style="padding: 0px 0px 0px 0px;">
-                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0"
-                                                        role="presentation">
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                                         <tr>
-                                                            <td valign="top"
-                                                                class="pc-w520-padding-25-25-25-25 pc-w620-padding-30-30-30-30"
-                                                                style="padding: 39px 40px 39px 40px;border-radius: 0px;background-color: #1b1b1b;"
-                                                                bgcolor="#1b1b1b">
-                                                                <table width="100%" border="0" cellpadding="0"
-                                                                    cellspacing="0" role="presentation">
+                                                            <td valign="top" class="pc-w520-padding-25-25-25-25 pc-w620-padding-30-30-30-30" style="padding: 39px 40px 39px 40px;border-radius: 0px;background-color: #1b1b1b;" bgcolor="#1b1b1b">
+                                                                <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                     <tr>
                                                                         <td>
-                                                                            <table
-                                                                                class="pc-width-fill pc-w620-gridCollapsed-1"
-                                                                                width="100%" border="0"
-                                                                                cellpadding="0" cellspacing="0"
-                                                                                role="presentation">
-                                                                                <tr
-                                                                                    class="pc-grid-tr-first pc-grid-tr-last">
-                                                                                    <td class="pc-grid-td-first pc-w620-padding-20-0"
-                                                                                        align="left" valign="middle"
-                                                                                        style="padding-top: 0px; padding-right: 140px; padding-bottom: 0px; padding-left: 0px;">
-                                                                                        <table border="0"
-                                                                                            cellpadding="0"
-                                                                                            cellspacing="0"
-                                                                                            role="presentation">
+                                                                            <table class="pc-width-fill pc-w620-gridCollapsed-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                                                                <tr class="pc-grid-tr-first pc-grid-tr-last">
+                                                                                    <td class="pc-grid-td-first pc-w620-padding-20-0" align="left" valign="middle" style="padding-top: 0px; padding-right: 140px; padding-bottom: 0px; padding-left: 0px;">
+                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                             <tr>
-                                                                                                <td align="left"
-                                                                                                    valign="top">
-                                                                                                    <table
-                                                                                                        align="left"
-                                                                                                        border="0"
-                                                                                                        cellpadding="0"
-                                                                                                        cellspacing="0"
-                                                                                                        role="presentation">
+                                                                                                <td align="left" valign="top">
+                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <img src="https://cloudfilesdm.com/postcards/image-1701774726972.png"
-                                                                                                                    class=""
-                                                                                                                    width="125"
-                                                                                                                    height="68"
-                                                                                                                    alt=""
-                                                                                                                    style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:125px;height: auto;max-width: 100%;" />
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <img src="https://cloudfilesdm.com/postcards/image-1701774726972.png" class="" width="125" height="68" alt="" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:125px;height: auto;max-width: 100%;" />
                                                                                                             </td>
                                                                                                         </tr>
                                                                                                     </table>
@@ -622,89 +585,33 @@
                                                                                             </tr>
                                                                                         </table>
                                                                                     </td>
-                                                                                    <td class="pc-grid-td-last pc-w620-padding-20-0"
-                                                                                        align="left" valign="middle"
-                                                                                        style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 140px;">
-                                                                                        <table border="0"
-                                                                                            cellpadding="0"
-                                                                                            cellspacing="0"
-                                                                                            role="presentation">
+                                                                                    <td class="pc-grid-td-last pc-w620-padding-20-0" align="left" valign="middle" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 140px;">
+                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                             <tr>
-                                                                                                <td align="left"
-                                                                                                    valign="top">
-                                                                                                    <table
-                                                                                                        align="left"
-                                                                                                        border="0"
-                                                                                                        cellpadding="0"
-                                                                                                        cellspacing="0"
-                                                                                                        role="presentation">
+                                                                                                <td align="left" valign="top">
+                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="left"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <td
-                                                                                                                            align="left">
-                                                                                                                            <table
-                                                                                                                                class="pc-width-hug pc-w620-gridCollapsed-0"
-                                                                                                                                align="left"
-                                                                                                                                border="0"
-                                                                                                                                cellpadding="0"
-                                                                                                                                cellspacing="0"
-                                                                                                                                role="presentation">
-                                                                                                                                <tr
-                                                                                                                                    class="pc-grid-tr-first pc-grid-tr-last">
-                                                                                                                                    <td class="pc-grid-td-first pc-w620-padding-0-10"
-                                                                                                                                        valign="middle"
-                                                                                                                                        style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 0px;">
-                                                                                                                                        <table
-                                                                                                                                            border="0"
-                                                                                                                                            cellpadding="0"
-                                                                                                                                            cellspacing="0"
-                                                                                                                                            role="presentation">
+                                                                                                                        <td align="left">
+                                                                                                                            <table class="pc-width-hug pc-w620-gridCollapsed-0" align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                                                                                                                <tr class="pc-grid-tr-first pc-grid-tr-last">
+                                                                                                                                    <td class="pc-grid-td-first pc-w620-padding-0-10" valign="middle" style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 0px;">
+                                                                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                             <tr>
-                                                                                                                                                <td align="left"
-                                                                                                                                                    valign="top">
-                                                                                                                                                    <table
-                                                                                                                                                        align="left"
-                                                                                                                                                        border="0"
-                                                                                                                                                        cellpadding="0"
-                                                                                                                                                        cellspacing="0"
-                                                                                                                                                        role="presentation">
+                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                         <tr>
-                                                                                                                                                            <td align="left"
-                                                                                                                                                                valign="top">
-                                                                                                                                                                <table
-                                                                                                                                                                    align="left"
-                                                                                                                                                                    border="0"
-                                                                                                                                                                    cellpadding="0"
-                                                                                                                                                                    cellspacing="0"
-                                                                                                                                                                    role="presentation">
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                                     <tr>
-                                                                                                                                                                        <td
-                                                                                                                                                                            valign="top">
-                                                                                                                                                                            <table
-                                                                                                                                                                                border="0"
-                                                                                                                                                                                cellpadding="0"
-                                                                                                                                                                                cellspacing="0"
-                                                                                                                                                                                role="presentation"
-                                                                                                                                                                                align="left">
+                                                                                                                                                                        <td valign="top">
+                                                                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                                                                 <tr>
-                                                                                                                                                                                    <td valign="top"
-                                                                                                                                                                                        align="left">
-                                                                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                                                                            style="text-align: left;text-align-last: left;">
-                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/ecf02bdf2a6f562525a77db7611f2296.png"
-                                                                                                                                                                                                class=""
-                                                                                                                                                                                                width="15"
-                                                                                                                                                                                                height="15"
-                                                                                                                                                                                                style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:15px;height: auto;max-width: 100%;"
-                                                                                                                                                                                                alt="" />
+                                                                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                                                                        <div class="pc-font-alt" style="text-align: left;text-align-last: left;">
+                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/ecf02bdf2a6f562525a77db7611f2296.png" class="" width="15" height="15" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:15px;height: auto;max-width: 100%;" alt="" />
                                                                                                                                                                                         </div>
                                                                                                                                                                                     </td>
                                                                                                                                                                                 </tr>
@@ -719,52 +626,21 @@
                                                                                                                                             </tr>
                                                                                                                                         </table>
                                                                                                                                     </td>
-                                                                                                                                    <td class="pc-w620-padding-0-10"
-                                                                                                                                        valign="middle"
-                                                                                                                                        style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;">
-                                                                                                                                        <table
-                                                                                                                                            border="0"
-                                                                                                                                            cellpadding="0"
-                                                                                                                                            cellspacing="0"
-                                                                                                                                            role="presentation">
+                                                                                                                                    <td class="pc-w620-padding-0-10" valign="middle" style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;">
+                                                                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                             <tr>
-                                                                                                                                                <td align="left"
-                                                                                                                                                    valign="top">
-                                                                                                                                                    <table
-                                                                                                                                                        align="left"
-                                                                                                                                                        border="0"
-                                                                                                                                                        cellpadding="0"
-                                                                                                                                                        cellspacing="0"
-                                                                                                                                                        role="presentation">
+                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                         <tr>
-                                                                                                                                                            <td align="left"
-                                                                                                                                                                valign="top">
-                                                                                                                                                                <table
-                                                                                                                                                                    align="left"
-                                                                                                                                                                    border="0"
-                                                                                                                                                                    cellpadding="0"
-                                                                                                                                                                    cellspacing="0"
-                                                                                                                                                                    role="presentation">
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                                     <tr>
-                                                                                                                                                                        <td
-                                                                                                                                                                            valign="top">
-                                                                                                                                                                            <table
-                                                                                                                                                                                border="0"
-                                                                                                                                                                                cellpadding="0"
-                                                                                                                                                                                cellspacing="0"
-                                                                                                                                                                                role="presentation"
-                                                                                                                                                                                align="left">
+                                                                                                                                                                        <td valign="top">
+                                                                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                                                                 <tr>
-                                                                                                                                                                                    <td valign="top"
-                                                                                                                                                                                        align="left">
-                                                                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                                                                            style="text-align: left;text-align-last: left;">
-                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/dae1140630534fd14ae2baebf396ee4b.png"
-                                                                                                                                                                                                class=""
-                                                                                                                                                                                                width="15"
-                                                                                                                                                                                                height="12"
-                                                                                                                                                                                                style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:15px;height: auto;max-width: 100%;"
-                                                                                                                                                                                                alt="" />
+                                                                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                                                                        <div class="pc-font-alt" style="text-align: left;text-align-last: left;">
+                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/dae1140630534fd14ae2baebf396ee4b.png" class="" width="15" height="12" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:15px;height: auto;max-width: 100%;" alt="" />
                                                                                                                                                                                         </div>
                                                                                                                                                                                     </td>
                                                                                                                                                                                 </tr>
@@ -779,52 +655,21 @@
                                                                                                                                             </tr>
                                                                                                                                         </table>
                                                                                                                                     </td>
-                                                                                                                                    <td class="pc-grid-td-last pc-w620-padding-0-10"
-                                                                                                                                        valign="middle"
-                                                                                                                                        style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 10px;">
-                                                                                                                                        <table
-                                                                                                                                            border="0"
-                                                                                                                                            cellpadding="0"
-                                                                                                                                            cellspacing="0"
-                                                                                                                                            role="presentation">
+                                                                                                                                    <td class="pc-grid-td-last pc-w620-padding-0-10" valign="middle" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 10px;">
+                                                                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                             <tr>
-                                                                                                                                                <td align="left"
-                                                                                                                                                    valign="top">
-                                                                                                                                                    <table
-                                                                                                                                                        align="left"
-                                                                                                                                                        border="0"
-                                                                                                                                                        cellpadding="0"
-                                                                                                                                                        cellspacing="0"
-                                                                                                                                                        role="presentation">
+                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                         <tr>
-                                                                                                                                                            <td align="left"
-                                                                                                                                                                valign="top">
-                                                                                                                                                                <table
-                                                                                                                                                                    align="left"
-                                                                                                                                                                    border="0"
-                                                                                                                                                                    cellpadding="0"
-                                                                                                                                                                    cellspacing="0"
-                                                                                                                                                                    role="presentation">
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                                     <tr>
-                                                                                                                                                                        <td
-                                                                                                                                                                            valign="top">
-                                                                                                                                                                            <table
-                                                                                                                                                                                border="0"
-                                                                                                                                                                                cellpadding="0"
-                                                                                                                                                                                cellspacing="0"
-                                                                                                                                                                                role="presentation"
-                                                                                                                                                                                align="left">
+                                                                                                                                                                        <td valign="top">
+                                                                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                                                                 <tr>
-                                                                                                                                                                                    <td valign="top"
-                                                                                                                                                                                        align="left">
-                                                                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                                                                            style="text-align: left;text-align-last: left;">
-                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/f1f2fa58c6ccd395a3ec3296c12241c6.png"
-                                                                                                                                                                                                class=""
-                                                                                                                                                                                                width="15"
-                                                                                                                                                                                                height="14"
-                                                                                                                                                                                                style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:15px;height: auto;max-width: 100%;"
-                                                                                                                                                                                                alt="" />
+                                                                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                                                                        <div class="pc-font-alt" style="text-align: left;text-align-last: left;">
+                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/f1f2fa58c6ccd395a3ec3296c12241c6.png" class="" width="15" height="14" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:15px;height: auto;max-width: 100%;" alt="" />
                                                                                                                                                                                         </div>
                                                                                                                                                                                     </td>
                                                                                                                                                                                 </tr>
@@ -868,46 +713,32 @@
                                 <tr>
                                     <td valign="top">
                                         <!-- BEGIN MODULE: Content 17 -->
-                                        <table width="100%" border="0" cellspacing="0" cellpadding="0"
-                                            role="presentation">
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                             <tr>
                                                 <td style="padding: 0px 0px 0px 0px;">
-                                                    <table width="100%" border="0" cellspacing="0"
-                                                        cellpadding="0" role="presentation">
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                                         <tr>
-                                                            <td valign="top"
-                                                                class="pc-w520-padding-30-30-30-30 pc-w620-padding-35-35-35-35"
-                                                                style="padding: 40px 40px 40px 40px;border-radius: 0px;background-color: #ffffff;"
-                                                                bgcolor="#ffffff">
-                                                                <table width="100%" border="0" cellpadding="0"
-                                                                    cellspacing="0" role="presentation">
+                                                            <td valign="top" class="pc-w520-padding-30-30-30-30 pc-w620-padding-35-35-35-35" style="padding: 40px 40px 40px 40px;border-radius: 0px;background-color: #ffffff;" bgcolor="#ffffff">
+                                                                <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                     <tr>
-                                                                        <td valign="top"
-                                                                            style="padding: 0px 0px 13px 0px;">
-                                                                            <table border="0" cellpadding="0"
-                                                                                cellspacing="0" role="presentation">
+                                                                        <td valign="top" style="padding: 0px 0px 13px 0px;">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                 <tr>
-                                                                                    <td valign="top"
-                                                                                        class="pc-font-alt"
-                                                                                        style="mso-line-height: exactly;line-height: 121%;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: 500;color: #40be65;">
-                                                                                        {{ $data['date'] }}</td>
+                                                                                    <td valign="top" class="pc-font-alt" style="mso-line-height: exactly;line-height: 121%;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: 500;color: #40be65;">
+                                                                                        {{ $data['date'] }}
+                                                                                    </td>
                                                                                 </tr>
                                                                             </table>
                                                                         </td>
                                                                     </tr>
                                                                 </table>
-                                                                <table width="100%" border="0" cellpadding="0"
-                                                                    cellspacing="0" role="presentation">
+                                                                <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                     <tr>
-                                                                        <td align="left" valign="top"
-                                                                            style="padding: 0px 0px 10px 0px;">
-                                                                            <table border="0" cellpadding="0"
-                                                                                cellspacing="0" role="presentation"
-                                                                                align="left">
+                                                                        <td align="left" valign="top" style="padding: 0px 0px 10px 0px;">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                 <tr>
                                                                                     <td valign="top" align="left">
-                                                                                        <div class="pc-font-alt"
-                                                                                            style="line-height: 142%;letter-spacing: -0.4px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 24px;font-weight: bold;color: #151515;text-align: left;text-align-last: left;">
+                                                                                        <div class="pc-font-alt" style="line-height: 142%;letter-spacing: -0.4px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 24px;font-weight: bold;color: #151515;text-align: left;text-align-last: left;">
                                                                                             <div><span>Hello
                                                                                                     {{ $data['name'] }}</span>
                                                                                             </div>
@@ -918,16 +749,12 @@
                                                                         </td>
                                                                     </tr>
                                                                 </table>
-                                                                <table border="0" cellpadding="0" cellspacing="0"
-                                                                    role="presentation" align="left">
+                                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                     <tr>
                                                                         <td valign="top" align="left">
-                                                                            <div class="pc-font-alt"
-                                                                                style="line-height: 156%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: normal;color: #8f8f8f;text-align: left;text-align-last: left;">
-                                                                                <div
-                                                                                    style="text-align: start; text-align-last: start;">
-                                                                                    <span
-                                                                                        style="font-weight: 400;font-style: normal;">We
+                                                                            <div class="pc-font-alt" style="line-height: 156%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: normal;color: #8f8f8f;text-align: left;text-align-last: left;">
+                                                                                <div style="text-align: start; text-align-last: start;">
+                                                                                    <span style="font-weight: 400;font-style: normal;">We
                                                                                         detected a successful login
                                                                                         attempt on your account. If this
                                                                                         was not you, please take
@@ -951,60 +778,28 @@
                                 <tr>
                                     <td valign="top">
                                         <!-- BEGIN MODULE: Button -->
-                                        <table width="100%" border="0" cellspacing="0" cellpadding="0"
-                                            role="presentation">
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                             <tr>
                                                 <td style="padding: 0px 0px 0px 0px;">
-                                                    <table width="100%" border="0" cellspacing="0"
-                                                        cellpadding="0" role="presentation">
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                                         <tr>
-                                                            <td valign="top"
-                                                                class="pc-w520-padding-15-25-15-25 pc-w620-padding-15-30-15-30"
-                                                                style="padding: 15px 40px 15px 40px;border-radius: 0px;background-color: #ffffff;"
-                                                                bgcolor="#ffffff">
-                                                                <table width="100%" border="0" cellpadding="0"
-                                                                    cellspacing="0" role="presentation">
+                                                            <td valign="top" class="pc-w520-padding-15-25-15-25 pc-w620-padding-15-30-15-30" style="padding: 15px 40px 15px 40px;border-radius: 0px;background-color: #ffffff;" bgcolor="#ffffff">
+                                                                <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                     <tr>
                                                                         <td align="left">
-                                                                            <table
-                                                                                class="pc-width-hug pc-w620-gridCollapsed-0"
-                                                                                align="center" border="0"
-                                                                                cellpadding="0" cellspacing="0"
-                                                                                role="presentation">
-                                                                                <tr
-                                                                                    class="pc-grid-tr-first pc-grid-tr-last">
-                                                                                    <td class="pc-grid-td-first pc-grid-td-last"
-                                                                                        valign="top"
-                                                                                        style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">
-                                                                                        <table border="0"
-                                                                                            cellpadding="0"
-                                                                                            cellspacing="0"
-                                                                                            role="presentation">
+                                                                            <table class="pc-width-hug pc-w620-gridCollapsed-0" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                                                                <tr class="pc-grid-tr-first pc-grid-tr-last">
+                                                                                    <td class="pc-grid-td-first pc-grid-td-last" valign="top" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">
+                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                             <tr>
-                                                                                                <td align="center"
-                                                                                                    valign="top">
-                                                                                                    <table
-                                                                                                        align="center"
-                                                                                                        border="0"
-                                                                                                        cellpadding="0"
-                                                                                                        cellspacing="0"
-                                                                                                        role="presentation">
+                                                                                                <td align="center" valign="top">
+                                                                                                    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                         <tr>
-                                                                                                            <td align="center"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="center"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="center" valign="top">
+                                                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <th valign="top"
-                                                                                                                            style="text-align: center;font-weight: normal;line-height: 1;">
-                                                                                                                            <!--[if !mso]><!-- --><a
-                                                                                                                                style="border-radius: 23px 23px 23px 23px;background-color: #02070b;padding: 14px 19px 14px 19px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-weight: 500;font-size: 16px;line-height: 150%;letter-spacing: -0.2px;color: #ffffff;display: inline-block;vertical-align: top;text-align: center;text-decoration: none;white-space: nowrap;-webkit-text-size-adjust: none;"
-                                                                                                                                href="https://elevate360.in/resetpassword"
-                                                                                                                                target="_blank">Reset
+                                                                                                                        <th valign="top" style="text-align: center;font-weight: normal;line-height: 1;">
+                                                                                                                            <!--[if !mso]><!-- --><a style="border-radius: 23px 23px 23px 23px;background-color: #02070b;padding: 14px 19px 14px 19px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-weight: 500;font-size: 16px;line-height: 150%;letter-spacing: -0.2px;color: #ffffff;display: inline-block;vertical-align: top;text-align: center;text-decoration: none;white-space: nowrap;-webkit-text-size-adjust: none;" href="https://elevate360.in/resetpassword" target="_blank">Reset
                                                                                                                                 Password</a>
                                                                                                                             <!--<![endif]-->
                                                                                                                         </th>
@@ -1034,69 +829,30 @@
                                 <tr>
                                     <td valign="top">
                                         <!-- BEGIN MODULE: Footer 1 -->
-                                        <table width="100%" border="0" cellspacing="0" cellpadding="0"
-                                            role="presentation">
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                             <tr>
                                                 <td style="padding: 0px 0px 0px 0px;">
-                                                    <table width="100%" border="0" cellspacing="0"
-                                                        cellpadding="0" role="presentation">
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                                         <tr>
-                                                            <td valign="top"
-                                                                class="pc-w520-padding-30-30-30-30 pc-w620-padding-35-35-35-35"
-                                                                style="padding: 40px 40px 40px 40px;border-radius: 0px;background-color: #1b1b1b;"
-                                                                bgcolor="#1b1b1b">
-                                                                <table width="100%" border="0" cellpadding="0"
-                                                                    cellspacing="0" role="presentation">
+                                                            <td valign="top" class="pc-w520-padding-30-30-30-30 pc-w620-padding-35-35-35-35" style="padding: 40px 40px 40px 40px;border-radius: 0px;background-color: #1b1b1b;" bgcolor="#1b1b1b">
+                                                                <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                     <tr>
                                                                         <td>
-                                                                            <table
-                                                                                class="pc-width-fill pc-w620-gridCollapsed-1"
-                                                                                width="100%" border="0"
-                                                                                cellpadding="0" cellspacing="0"
-                                                                                role="presentation">
-                                                                                <tr
-                                                                                    class="pc-grid-tr-first pc-grid-tr-last">
-                                                                                    <td class="pc-grid-td-first pc-w620-padding-40-0"
-                                                                                        align="left" valign="top"
-                                                                                        style="width: 50%; padding-top: 0px; padding-right: 20px; padding-bottom: 0px; padding-left: 0px;">
-                                                                                        <table width="100%"
-                                                                                            border="0"
-                                                                                            cellpadding="0"
-                                                                                            cellspacing="0"
-                                                                                            role="presentation"
-                                                                                            style="width: 100%;">
+                                                                            <table class="pc-width-fill pc-w620-gridCollapsed-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                                                                <tr class="pc-grid-tr-first pc-grid-tr-last">
+                                                                                    <td class="pc-grid-td-first pc-w620-padding-40-0" align="left" valign="top" style="width: 50%; padding-top: 0px; padding-right: 20px; padding-bottom: 0px; padding-left: 0px;">
+                                                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
                                                                                             <tr>
-                                                                                                <td align="left"
-                                                                                                    valign="top">
-                                                                                                    <table
-                                                                                                        align="left"
-                                                                                                        width="100%"
-                                                                                                        border="0"
-                                                                                                        cellpadding="0"
-                                                                                                        cellspacing="0"
-                                                                                                        role="presentation"
-                                                                                                        style="width: 100%;">
+                                                                                                <td align="left" valign="top">
+                                                                                                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="left"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <td valign="top"
-                                                                                                                            style="padding: 0px 0px 10px 0px;">
-                                                                                                                            <table
-                                                                                                                                border="0"
-                                                                                                                                cellpadding="0"
-                                                                                                                                cellspacing="0"
-                                                                                                                                role="presentation">
+                                                                                                                        <td valign="top" style="padding: 0px 0px 10px 0px;">
+                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                 <tr>
-                                                                                                                                    <td valign="top"
-                                                                                                                                        class="pc-font-alt"
-                                                                                                                                        style="mso-line-height: exactly;line-height: 133%;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: 500;color: #ffffff;">
+                                                                                                                                    <td valign="top" class="pc-font-alt" style="mso-line-height: exactly;line-height: 133%;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: 500;color: #ffffff;">
                                                                                                                                         Follow
                                                                                                                                         Us.
                                                                                                                                     </td>
@@ -1108,27 +864,13 @@
                                                                                                             </td>
                                                                                                         </tr>
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="left"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <td class="pc-w620-spacing-0-0-22-0"
-                                                                                                                            valign="top"
-                                                                                                                            style="padding: 0px 0px 52px 0px;">
-                                                                                                                            <table
-                                                                                                                                border="0"
-                                                                                                                                cellpadding="0"
-                                                                                                                                cellspacing="0"
-                                                                                                                                role="presentation">
+                                                                                                                        <td class="pc-w620-spacing-0-0-22-0" valign="top" style="padding: 0px 0px 52px 0px;">
+                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                 <tr>
-                                                                                                                                    <td valign="top"
-                                                                                                                                        class="pc-font-alt"
-                                                                                                                                        style="mso-line-height: exactly;line-height: 143%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: normal;color: #d8d8d8;">
+                                                                                                                                    <td valign="top" class="pc-font-alt" style="mso-line-height: exactly;line-height: 143%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: normal;color: #d8d8d8;">
                                                                                                                                         We
                                                                                                                                         are
                                                                                                                                         always
@@ -1150,72 +892,27 @@
                                                                                                             </td>
                                                                                                         </tr>
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="left"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <td
-                                                                                                                            align="left">
-                                                                                                                            <table
-                                                                                                                                class="pc-width-hug pc-w620-gridCollapsed-0"
-                                                                                                                                align="left"
-                                                                                                                                border="0"
-                                                                                                                                cellpadding="0"
-                                                                                                                                cellspacing="0"
-                                                                                                                                role="presentation">
-                                                                                                                                <tr
-                                                                                                                                    class="pc-grid-tr-first pc-grid-tr-last">
-                                                                                                                                    <td class="pc-grid-td-first pc-w620-padding-0-10"
-                                                                                                                                        valign="middle"
-                                                                                                                                        style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 0px;">
-                                                                                                                                        <table
-                                                                                                                                            border="0"
-                                                                                                                                            cellpadding="0"
-                                                                                                                                            cellspacing="0"
-                                                                                                                                            role="presentation">
+                                                                                                                        <td align="left">
+                                                                                                                            <table class="pc-width-hug pc-w620-gridCollapsed-0" align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                                                                                                                <tr class="pc-grid-tr-first pc-grid-tr-last">
+                                                                                                                                    <td class="pc-grid-td-first pc-w620-padding-0-10" valign="middle" style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 0px;">
+                                                                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                             <tr>
-                                                                                                                                                <td align="left"
-                                                                                                                                                    valign="top">
-                                                                                                                                                    <table
-                                                                                                                                                        align="left"
-                                                                                                                                                        border="0"
-                                                                                                                                                        cellpadding="0"
-                                                                                                                                                        cellspacing="0"
-                                                                                                                                                        role="presentation">
+                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                         <tr>
-                                                                                                                                                            <td align="left"
-                                                                                                                                                                valign="top">
-                                                                                                                                                                <table
-                                                                                                                                                                    align="left"
-                                                                                                                                                                    border="0"
-                                                                                                                                                                    cellpadding="0"
-                                                                                                                                                                    cellspacing="0"
-                                                                                                                                                                    role="presentation">
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                                     <tr>
-                                                                                                                                                                        <td
-                                                                                                                                                                            valign="top">
-                                                                                                                                                                            <table
-                                                                                                                                                                                border="0"
-                                                                                                                                                                                cellpadding="0"
-                                                                                                                                                                                cellspacing="0"
-                                                                                                                                                                                role="presentation"
-                                                                                                                                                                                align="left">
+                                                                                                                                                                        <td valign="top">
+                                                                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                                                                 <tr>
-                                                                                                                                                                                    <td valign="top"
-                                                                                                                                                                                        align="left">
-                                                                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                                                                            style="text-align: left;text-align-last: left;">
-                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/b27f430c0285b548375dbba5702221b7.png"
-                                                                                                                                                                                                class=""
-                                                                                                                                                                                                width="20"
-                                                                                                                                                                                                height="20"
-                                                                                                                                                                                                style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:20px;height: auto;max-width: 100%;"
-                                                                                                                                                                                                alt="" />
+                                                                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                                                                        <div class="pc-font-alt" style="text-align: left;text-align-last: left;">
+                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/b27f430c0285b548375dbba5702221b7.png" class="" width="20" height="20" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:20px;height: auto;max-width: 100%;" alt="" />
                                                                                                                                                                                         </div>
                                                                                                                                                                                     </td>
                                                                                                                                                                                 </tr>
@@ -1230,52 +927,21 @@
                                                                                                                                             </tr>
                                                                                                                                         </table>
                                                                                                                                     </td>
-                                                                                                                                    <td class="pc-w620-padding-0-10"
-                                                                                                                                        valign="middle"
-                                                                                                                                        style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;">
-                                                                                                                                        <table
-                                                                                                                                            border="0"
-                                                                                                                                            cellpadding="0"
-                                                                                                                                            cellspacing="0"
-                                                                                                                                            role="presentation">
+                                                                                                                                    <td class="pc-w620-padding-0-10" valign="middle" style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;">
+                                                                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                             <tr>
-                                                                                                                                                <td align="left"
-                                                                                                                                                    valign="top">
-                                                                                                                                                    <table
-                                                                                                                                                        align="left"
-                                                                                                                                                        border="0"
-                                                                                                                                                        cellpadding="0"
-                                                                                                                                                        cellspacing="0"
-                                                                                                                                                        role="presentation">
+                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                         <tr>
-                                                                                                                                                            <td align="left"
-                                                                                                                                                                valign="top">
-                                                                                                                                                                <table
-                                                                                                                                                                    align="left"
-                                                                                                                                                                    border="0"
-                                                                                                                                                                    cellpadding="0"
-                                                                                                                                                                    cellspacing="0"
-                                                                                                                                                                    role="presentation">
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                                     <tr>
-                                                                                                                                                                        <td
-                                                                                                                                                                            valign="top">
-                                                                                                                                                                            <table
-                                                                                                                                                                                border="0"
-                                                                                                                                                                                cellpadding="0"
-                                                                                                                                                                                cellspacing="0"
-                                                                                                                                                                                role="presentation"
-                                                                                                                                                                                align="left">
+                                                                                                                                                                        <td valign="top">
+                                                                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                                                                 <tr>
-                                                                                                                                                                                    <td valign="top"
-                                                                                                                                                                                        align="left">
-                                                                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                                                                            style="text-align: left;text-align-last: left;">
-                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/10451afef0b15b3557459ca08369e514.png"
-                                                                                                                                                                                                class=""
-                                                                                                                                                                                                width="22"
-                                                                                                                                                                                                height="20"
-                                                                                                                                                                                                style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:22px;height: auto;max-width: 100%;"
-                                                                                                                                                                                                alt="" />
+                                                                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                                                                        <div class="pc-font-alt" style="text-align: left;text-align-last: left;">
+                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/10451afef0b15b3557459ca08369e514.png" class="" width="22" height="20" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:22px;height: auto;max-width: 100%;" alt="" />
                                                                                                                                                                                         </div>
                                                                                                                                                                                     </td>
                                                                                                                                                                                 </tr>
@@ -1290,52 +956,21 @@
                                                                                                                                             </tr>
                                                                                                                                         </table>
                                                                                                                                     </td>
-                                                                                                                                    <td class="pc-w620-padding-0-10"
-                                                                                                                                        valign="middle"
-                                                                                                                                        style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;">
-                                                                                                                                        <table
-                                                                                                                                            border="0"
-                                                                                                                                            cellpadding="0"
-                                                                                                                                            cellspacing="0"
-                                                                                                                                            role="presentation">
+                                                                                                                                    <td class="pc-w620-padding-0-10" valign="middle" style="padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;">
+                                                                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                             <tr>
-                                                                                                                                                <td align="left"
-                                                                                                                                                    valign="top">
-                                                                                                                                                    <table
-                                                                                                                                                        align="left"
-                                                                                                                                                        border="0"
-                                                                                                                                                        cellpadding="0"
-                                                                                                                                                        cellspacing="0"
-                                                                                                                                                        role="presentation">
+                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                         <tr>
-                                                                                                                                                            <td align="left"
-                                                                                                                                                                valign="top">
-                                                                                                                                                                <table
-                                                                                                                                                                    align="left"
-                                                                                                                                                                    border="0"
-                                                                                                                                                                    cellpadding="0"
-                                                                                                                                                                    cellspacing="0"
-                                                                                                                                                                    role="presentation">
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                                     <tr>
-                                                                                                                                                                        <td
-                                                                                                                                                                            valign="top">
-                                                                                                                                                                            <table
-                                                                                                                                                                                border="0"
-                                                                                                                                                                                cellpadding="0"
-                                                                                                                                                                                cellspacing="0"
-                                                                                                                                                                                role="presentation"
-                                                                                                                                                                                align="left">
+                                                                                                                                                                        <td valign="top">
+                                                                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                                                                 <tr>
-                                                                                                                                                                                    <td valign="top"
-                                                                                                                                                                                        align="left">
-                                                                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                                                                            style="text-align: left;text-align-last: left;">
-                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/d89d65d93ee39fec8f716aefc9b687fa.png"
-                                                                                                                                                                                                class=""
-                                                                                                                                                                                                width="20"
-                                                                                                                                                                                                height="20"
-                                                                                                                                                                                                style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:20px;height: auto;max-width: 100%;"
-                                                                                                                                                                                                alt="" />
+                                                                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                                                                        <div class="pc-font-alt" style="text-align: left;text-align-last: left;">
+                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/d89d65d93ee39fec8f716aefc9b687fa.png" class="" width="20" height="20" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:20px;height: auto;max-width: 100%;" alt="" />
                                                                                                                                                                                         </div>
                                                                                                                                                                                     </td>
                                                                                                                                                                                 </tr>
@@ -1350,52 +985,21 @@
                                                                                                                                             </tr>
                                                                                                                                         </table>
                                                                                                                                     </td>
-                                                                                                                                    <td class="pc-grid-td-last pc-w620-padding-0-10"
-                                                                                                                                        valign="middle"
-                                                                                                                                        style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 10px;">
-                                                                                                                                        <table
-                                                                                                                                            border="0"
-                                                                                                                                            cellpadding="0"
-                                                                                                                                            cellspacing="0"
-                                                                                                                                            role="presentation">
+                                                                                                                                    <td class="pc-grid-td-last pc-w620-padding-0-10" valign="middle" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 10px;">
+                                                                                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                             <tr>
-                                                                                                                                                <td align="left"
-                                                                                                                                                    valign="top">
-                                                                                                                                                    <table
-                                                                                                                                                        align="left"
-                                                                                                                                                        border="0"
-                                                                                                                                                        cellpadding="0"
-                                                                                                                                                        cellspacing="0"
-                                                                                                                                                        role="presentation">
+                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                         <tr>
-                                                                                                                                                            <td align="left"
-                                                                                                                                                                valign="top">
-                                                                                                                                                                <table
-                                                                                                                                                                    align="left"
-                                                                                                                                                                    border="0"
-                                                                                                                                                                    cellpadding="0"
-                                                                                                                                                                    cellspacing="0"
-                                                                                                                                                                    role="presentation">
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                                                     <tr>
-                                                                                                                                                                        <td
-                                                                                                                                                                            valign="top">
-                                                                                                                                                                            <table
-                                                                                                                                                                                border="0"
-                                                                                                                                                                                cellpadding="0"
-                                                                                                                                                                                cellspacing="0"
-                                                                                                                                                                                role="presentation"
-                                                                                                                                                                                align="left">
+                                                                                                                                                                        <td valign="top">
+                                                                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                                                                 <tr>
-                                                                                                                                                                                    <td valign="top"
-                                                                                                                                                                                        align="left">
-                                                                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                                                                            style="text-align: left;text-align-last: left;">
-                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/5a14400163a58e597a200db837a9ee39.png"
-                                                                                                                                                                                                class=""
-                                                                                                                                                                                                width="20"
-                                                                                                                                                                                                height="20"
-                                                                                                                                                                                                style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:20px;height: auto;max-width: 100%;"
-                                                                                                                                                                                                alt="" />
+                                                                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                                                                        <div class="pc-font-alt" style="text-align: left;text-align-last: left;">
+                                                                                                                                                                                            <img src="https://cloudfilesdm.com/postcards/5a14400163a58e597a200db837a9ee39.png" class="" width="20" height="20" style="display: block;border: 0;outline: 0;line-height: 100%;-ms-interpolation-mode: bicubic;width:20px;height: auto;max-width: 100%;" alt="" />
                                                                                                                                                                                         </div>
                                                                                                                                                                                     </td>
                                                                                                                                                                                 </tr>
@@ -1422,47 +1026,19 @@
                                                                                             </tr>
                                                                                         </table>
                                                                                     </td>
-                                                                                    <td class="pc-grid-td-last pc-w620-padding-40-0"
-                                                                                        align="left" valign="top"
-                                                                                        style="width: 50%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px;">
-                                                                                        <table width="100%"
-                                                                                            border="0"
-                                                                                            cellpadding="0"
-                                                                                            cellspacing="0"
-                                                                                            role="presentation"
-                                                                                            style="width: 100%;">
+                                                                                    <td class="pc-grid-td-last pc-w620-padding-40-0" align="left" valign="top" style="width: 50%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px;">
+                                                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
                                                                                             <tr>
-                                                                                                <td align="left"
-                                                                                                    valign="top">
-                                                                                                    <table
-                                                                                                        align="left"
-                                                                                                        width="100%"
-                                                                                                        border="0"
-                                                                                                        cellpadding="0"
-                                                                                                        cellspacing="0"
-                                                                                                        role="presentation"
-                                                                                                        style="width: 100%;">
+                                                                                                <td align="left" valign="top">
+                                                                                                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="left"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <td valign="top"
-                                                                                                                            style="padding: 0px 0px 10px 0px;">
-                                                                                                                            <table
-                                                                                                                                border="0"
-                                                                                                                                cellpadding="0"
-                                                                                                                                cellspacing="0"
-                                                                                                                                role="presentation">
+                                                                                                                        <td valign="top" style="padding: 0px 0px 10px 0px;">
+                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                 <tr>
-                                                                                                                                    <td valign="top"
-                                                                                                                                        class="pc-font-alt"
-                                                                                                                                        style="mso-line-height: exactly;line-height: 133%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: 500;color: #ffffff;">
+                                                                                                                                    <td valign="top" class="pc-font-alt" style="mso-line-height: exactly;line-height: 133%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: 500;color: #ffffff;">
                                                                                                                                         Contact
                                                                                                                                         us
                                                                                                                                     </td>
@@ -1474,27 +1050,13 @@
                                                                                                             </td>
                                                                                                         </tr>
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="left"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <td class="pc-w620-spacing-0-0-25-0"
-                                                                                                                            valign="top"
-                                                                                                                            style="padding: 0px 0px 45px 0px;">
-                                                                                                                            <table
-                                                                                                                                border="0"
-                                                                                                                                cellpadding="0"
-                                                                                                                                cellspacing="0"
-                                                                                                                                role="presentation">
+                                                                                                                        <td class="pc-w620-spacing-0-0-25-0" valign="top" style="padding: 0px 0px 45px 0px;">
+                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                                 <tr>
-                                                                                                                                    <td valign="top"
-                                                                                                                                        class="pc-font-alt"
-                                                                                                                                        style="mso-line-height: exactly;line-height: 143%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: normal;color: #d8d8d8;">
+                                                                                                                                    <td valign="top" class="pc-font-alt" style="mso-line-height: exactly;line-height: 143%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: normal;color: #d8d8d8;">
                                                                                                                                         <div>
                                                                                                                                             <span>1,
                                                                                                                                                 Global
@@ -1515,34 +1077,19 @@
                                                                                                             </td>
                                                                                                         </tr>
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    align="left"
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                                                                     <tr>
-                                                                                                                        <td valign="top"
-                                                                                                                            style="padding: 0px 0px 8px 0px;">
-                                                                                                                            <table
-                                                                                                                                border="0"
-                                                                                                                                cellpadding="0"
-                                                                                                                                cellspacing="0"
-                                                                                                                                role="presentation"
-                                                                                                                                align="left">
+                                                                                                                        <td valign="top" style="padding: 0px 0px 8px 0px;">
+                                                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                                 <tr>
-                                                                                                                                    <td valign="top"
-                                                                                                                                        align="left">
-                                                                                                                                        <div class="pc-font-alt"
-                                                                                                                                            style="line-height: 133%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: 500;color: #ffffff;text-align: left;text-align-last: left;">
+                                                                                                                                    <td valign="top" align="left">
+                                                                                                                                        <div class="pc-font-alt" style="line-height: 133%;letter-spacing: -0.2px;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 18px;font-weight: 500;color: #ffffff;text-align: left;text-align-last: left;">
                                                                                                                                             <div>
-                                                                                                                                                <span><a href="tel:+916354841702"
-                                                                                                                                                        style="text-decoration: none;color: #f0f0f0;">
+                                                                                                                                                <span><a href="tel:+919664788574" style="text-decoration: none;color: #f0f0f0;">
                                                                                                                                                         +91
-                                                                                                                                                        63548
-                                                                                                                                                        41702</a></span>
+                                                                                                                                                        96647 88574
+                                                                                                                                                    </a></span>
                                                                                                                                             </div>
                                                                                                                                         </div>
                                                                                                                                     </td>
@@ -1554,21 +1101,11 @@
                                                                                                             </td>
                                                                                                         </tr>
                                                                                                         <tr>
-                                                                                                            <td align="left"
-                                                                                                                valign="top">
-                                                                                                                <table
-                                                                                                                    border="0"
-                                                                                                                    cellpadding="0"
-                                                                                                                    cellspacing="0"
-                                                                                                                    role="presentation"
-                                                                                                                    align="left">
+                                                                                                            <td align="left" valign="top">
+                                                                                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" align="left">
                                                                                                                     <tr>
-                                                                                                                        <td valign="top"
-                                                                                                                            align="left">
-                                                                                                                            <a class="pc-font-alt"
-                                                                                                                                href="https://mail.google.com/mail/u/0/?fs=1&to=elevate360.contact@gmail.com&tf=cm"
-                                                                                                                                target="_blank"
-                                                                                                                                style="text-decoration: none;line-height: 171%;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: 500;color: #1595e7;text-align: left;text-align-last: left;">
+                                                                                                                        <td valign="top" align="left">
+                                                                                                                            <a class="pc-font-alt" href="https://mail.google.com/mail/u/0/?fs=1&to=elevate360.contact@gmail.com&tf=cm" target="_blank" style="text-decoration: none;line-height: 171%;font-family: 'Fira Sans', Helvetica, Arial, sans-serif;font-size: 14px;font-weight: 500;color: #1595e7;text-align: left;text-align-last: left;">
                                                                                                                                 <span><span>elevate360.contact@gmail.com
                                                                                                                                     </span>
                                                                                                                                 </span>

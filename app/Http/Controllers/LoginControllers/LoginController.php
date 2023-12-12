@@ -11,6 +11,7 @@ use App\Mail\LoginMails\RegisterSuccess;
 use Jenssegers\Agent\Agent;
 use App\Models\User\User;
 use App\Models\User\UserLoginLog;
+use Exception;
 
 class LoginController extends BaseController
 {
@@ -29,12 +30,14 @@ class LoginController extends BaseController
         ];
         $customData = [
             'date' => now()->format('j F, Y'),
-            'name' => $userData[0]->userFirstName.' '.$userData[0]->userLastName,
+            'name' => $userData[0]->userFirstName . ' ' . $userData[0]->userLastName,
         ];
-        Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
+        try {
+            Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
+        } catch (Exception $e) {
+        }
         UserLoginLog::insert($loginDetails);
-        echo '<pre>';
-        print_r($loginDetails);
+        return $userData[0]->userSecret;
     }
 
     public function register(Register $request)
@@ -43,10 +46,12 @@ class LoginController extends BaseController
         $return = User::insertdata($data);
         $customData = [
             'date' => now()->format('j F, Y'),
-            'name' => $data["firstName"].' '.$data["lastName"],
+            'name' => $data["firstname"] . ' ' . $data["lastname"],
         ];
-        Mail::to($data["email"])->send(new RegisterSuccess($customData));
-        echo '<pre>';
-        echo $return;
+        try {
+            Mail::to($data["email"])->send(new RegisterSuccess($customData));
+        } catch (Exception $e) {
+        }
+        return json_encode($return);
     }
 }

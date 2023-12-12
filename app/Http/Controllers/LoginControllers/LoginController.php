@@ -6,6 +6,7 @@ use Illuminate\Routing\Controller as BaseController;
 use App\Http\Requests\LoginRequests\Login;
 use App\Http\Requests\LoginRequests\Register;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Log;
 use App\Mail\LoginMails\LoginSuccess;
 use App\Mail\LoginMails\RegisterSuccess;
 use Jenssegers\Agent\Agent;
@@ -35,6 +36,7 @@ class LoginController extends BaseController
         try {
             Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
         } catch (Exception $e) {
+            Log::error('Login Mail Error For User ' . $credentials["username"] . ': ' . $e->getMessage());
         }
         UserLoginLog::insert($loginDetails);
         return $userData[0]->userSecret;
@@ -51,8 +53,8 @@ class LoginController extends BaseController
         try {
             Mail::to($data["email"])->send(new RegisterSuccess($customData));
         } catch (Exception $e) {
+            Log::error('Register Mail Error For User ' . $data["login"] . ': ' . $e->getMessage());
         }
-        dd($return);
         return json_encode($return);
     }
 }

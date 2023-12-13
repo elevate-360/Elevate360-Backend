@@ -50,6 +50,20 @@ class MenuController extends BaseController
                             "size": "small",
                             "variant": "combined"
                         }
+                    },
+                    {
+                        "id": "blank",
+                        "title": "blank page",
+                        "type": "item",
+                        "url": "/sample-page",
+                        "icon": "chromeoutlined",
+                        "target": false,
+                        "chip": {
+                            "label": "upgrade",
+                            "color": "success",
+                            "size": "small",
+                            "variant": "combined"
+                        }
                     }
                 ]
             }

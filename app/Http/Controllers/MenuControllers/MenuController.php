@@ -50,6 +50,28 @@ class MenuController extends BaseController
                             "size": "small",
                             "variant": "combined"
                         }
+                    }
+                ]
+            },
+            "company": {
+                "id": "group-company",
+                "title": "onboard company",
+                "type": "group",
+                "icon": "dashboard",
+                "children": [
+                    {
+                        "id": "onboardCompany",
+                        "title": "New Onboard Company",
+                        "type": "item",
+                        "url": "/company/onboard",
+                        "icon": "components",
+                        "target": false,
+                        "chip": {
+                            "label": "new",
+                            "color": "primary",
+                            "size": "small",
+                            "variant": "combined"
+                        }
                     },
                     {
                         "id": "blank",

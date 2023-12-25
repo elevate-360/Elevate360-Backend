@@ -15,17 +15,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Default rpute
-// Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-//     return $request->user();
-// });
-
 // Public Routes
 Route::post("/login", [LoginController::class, "login"]);
 Route::post("/register", [LoginController::class, "register"]);
-Route::get("/menu/dashboard", [MenuController::class, "getMenu"]);
 
-// Route::middleware(["auth.api"])->group(function () {
-//     // Define your protected API routes here
-//     Route::get('/example', 'ExampleController@index');
-// });
+// Private Routes
+Route::middleware(['auth.api'])->group(function () {
+    Route::get("/menu/dashboard", [MenuController::class, "getMenu"]);
+});

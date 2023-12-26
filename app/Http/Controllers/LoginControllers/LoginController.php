@@ -13,6 +13,7 @@ use Jenssegers\Agent\Agent;
 use App\Models\User\User;
 use App\Models\User\UserLoginLog;
 use Exception;
+use Illuminate\Support\Facades\DB;
 
 class LoginController extends BaseController
 {
@@ -29,6 +30,8 @@ class LoginController extends BaseController
                     'browserInfo' => $request->userAgent(),
                     'operatingSystem' => $agent->platform(),
                     'deviceType' => $agent->device(),
+                    'loginTime' => date("H:m:i"),
+                    'loginDate' => date("Y-m-d")
                 ];
                 $customData = [
                     'date' => now()->format('j F, Y'),
@@ -39,7 +42,12 @@ class LoginController extends BaseController
                 } catch (Exception $e) {
                     Log::error('Login Mail Error For User ' . $credentials["username"] . ': ' . $e->getMessage());
                 }
-                UserLoginLog::insert($loginDetails);
+                $loginTime = now();
+                UserLoginLog::upsert(
+                    $loginDetails,
+                    ['userId', 'loginDate'],
+                    ['loginCount' => DB::raw('loginCount + 1')]
+                );
                 $userReturn = array(
                     "userFirstName" => $userData[0]->userFirstName,
                     "userLastName" => $userData[0]->userLastName,

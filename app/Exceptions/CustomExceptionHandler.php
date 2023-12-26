@@ -25,7 +25,7 @@ class CustomExceptionHandler extends ExceptionHandler
         return $this->handle500Error($request, $exception);
     }
 
-    protected function handle500Error($request, Exception $exception)
+    protected function handle500Error($request, $exception)
     {
         // Log the exception or perform other actions as needed
         return response()->view('errors.500', [], 500);

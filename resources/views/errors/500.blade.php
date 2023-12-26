@@ -8,7 +8,7 @@
     <meta name="author" content="" />
     <link rel="icon" href="favicon.png" type="image/x-icon">
     <title>Elevate360 | Api Index</title>
-    <link href="css/styles.css" rel="stylesheet" />
+    <link href="/css/styles.css" rel="stylesheet" />
 </head>
 
 <body>

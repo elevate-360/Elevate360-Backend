@@ -20,26 +20,39 @@ class LoginController extends BaseController
     {
         $agent = new Agent();
         $credentials = $request->only('username', 'password');
-        $userData = User::select('userId', 'userFirstName', 'userLastName', 'userEmail', 'userSecret')->where('userLogin', '=', $credentials['username'])->where('userPassword', '=', hash('sha512', $credentials['password']))->get();
-        // dd($userData);
-        $loginDetails = [
-            'userId' => $userData[0]->userId,
-            'ipAddress' => $request->ip(),
-            'browserInfo' => $request->userAgent(),
-            'operatingSystem' => $agent->platform(),
-            'deviceType' => $agent->device(),
-        ];
-        $customData = [
-            'date' => now()->format('j F, Y'),
-            'name' => $userData[0]->userFirstName . ' ' . $userData[0]->userLastName,
-        ];
-        try {
-            Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
-        } catch (Exception $e) {
-            Log::error('Login Mail Error For User ' . $credentials["username"] . ': ' . $e->getMessage());
+        $userData = User::select('userId', 'userFirstName', 'userLastName', 'userEmail', 'userSecret', "userPassword")->where('userLogin', '=', $credentials['username'])->get();
+        if (isset($userData[0])) {
+            if ($userData[0]->userPassword == hash('sha512', $credentials['password'])) {
+                $loginDetails = [
+                    'userId' => $userData[0]->userId,
+                    'ipAddress' => $request->ip(),
+                    'browserInfo' => $request->userAgent(),
+                    'operatingSystem' => $agent->platform(),
+                    'deviceType' => $agent->device(),
+                ];
+                $customData = [
+                    'date' => now()->format('j F, Y'),
+                    'name' => $userData[0]->userFirstName . ' ' . $userData[0]->userLastName,
+                ];
+                try {
+                    Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
+                } catch (Exception $e) {
+                    Log::error('Login Mail Error For User ' . $credentials["username"] . ': ' . $e->getMessage());
+                }
+                UserLoginLog::insert($loginDetails);
+                $userReturn = array(
+                    "userFirstName" => $userData[0]->userFirstName,
+                    "userLastName" => $userData[0]->userLastName,
+                    "userEmail" => $userData[0]->userEmail,
+                    "accessToken" => $userData[0]->userSecret
+                );
+                return json_encode($userReturn);
+            } else {
+                return json_encode(array("message" => "Incorrect Password!!!", "type" => "error"));
+            }
+        } else {
+            return json_encode(array("message" => "User Not Found!!!", "type" => "error"));
         }
-        UserLoginLog::insert($loginDetails);
-        return $userData[0]->userSecret;
     }
 
     public function register(Register $request)

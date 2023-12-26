@@ -21,5 +21,5 @@ Route::post("/register", [LoginController::class, "register"]);
 
 // Private Routes
 Route::middleware(['auth.api'])->group(function () {
-    Route::get("/menu/dashboard", [MenuController::class, "getMenu"]);
+    Route::post("/menu/dashboard", [MenuController::class, "getMenu"]);
 });

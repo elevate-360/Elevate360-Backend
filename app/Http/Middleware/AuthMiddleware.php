@@ -24,36 +24,40 @@ class AuthMiddleware
             $os = $agent->platform();
             $device = $agent->device();
 
-            $userData = DB::table('tblUser')
-                ->join('tblUserLoginLog', 'tblUser.userId', '=', 'tblUserLoginLog.userId')
-                ->select(
-                    'tblUserLoginLog.browserInfo',
-                    'tblUserLoginLog.operatingSystem',
-                    'tblUserLoginLog.deviceType',
-                    'tblUser.isEmailVerified',
-                    'tblUser.userId',
-                    'tblUser.isContactNumberVerified'
-                )
-                ->where('tblUser.userSecret', '=', $token)
-                ->orderBy('tblUserLoginLog.loginTime', 'DESC')
-                ->limit(1)
-                ->get()
-                ->first();
+            if ($os && $device) {
+                $userData = DB::table('tblUser')
+                    ->join('tblUserLoginLog', 'tblUser.userId', '=', 'tblUserLoginLog.userId')
+                    ->select(
+                        'tblUserLoginLog.browserInfo',
+                        'tblUserLoginLog.operatingSystem',
+                        'tblUserLoginLog.deviceType',
+                        'tblUser.isEmailVerified',
+                        'tblUser.userId',
+                        'tblUser.isContactNumberVerified'
+                    )
+                    ->where('tblUser.userSecret', '=', $token)
+                    ->orderBy('tblUserLoginLog.loginTime', 'DESC')
+                    ->limit(1)
+                    ->get()
+                    ->first();
 
-            if ($userData) {
-                // Check all the details
-                $reqHash = hash('sha512', $browserInfo . $os . $device . $token);
-                $expHash = hash('sha512', $userData->browserInfo . $userData->operatingSystem . $userData->deviceType . $token);
+                if ($userData) {
+                    // Check all the details
+                    $reqHash = hash('sha512', $browserInfo . (($os) ? $os : "0") . (($device) ? $device : "0") . $token);
+                    $expHash = hash('sha512', $userData->browserInfo . $userData->operatingSystem . $userData->deviceType . $token);
 
-                if ($reqHash == $expHash) {
-                    unset($reqHash);
-                    unset($expHash);
-                    return $next($request);
+                    if ($reqHash == $expHash) {
+                        unset($reqHash);
+                        unset($expHash);
+                        return $next($request);
+                    } else {
+                        return response()->json(['error' => 'Unauthorized'], 401);
+                    }
                 } else {
                     return response()->json(['error' => 'Unauthorized'], 401);
                 }
             } else {
-                return response()->json(['error' => 'Unauthorized'], 401);
+                return response()->json(['attitude' => 'Hmmm! Trying to hack ahh.............'], 401);
             }
         } else {
             return response()->json(['error' => 'Unauthorized'], 401);

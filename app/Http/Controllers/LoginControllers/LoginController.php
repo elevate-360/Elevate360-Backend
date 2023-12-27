@@ -38,11 +38,10 @@ class LoginController extends BaseController
                     'name' => $userData[0]->userFirstName . ' ' . $userData[0]->userLastName,
                 ];
                 try {
-                    Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
+                    // Mail::to($userData[0]->userEmail)->send(new LoginSuccess($customData));
                 } catch (Exception $e) {
                     Log::error('Login Mail Error For User ' . $credentials["username"] . ': ' . $e->getMessage());
                 }
-                $loginTime = now();
                 UserLoginLog::upsert(
                     $loginDetails,
                     ['userId', 'loginDate'],
